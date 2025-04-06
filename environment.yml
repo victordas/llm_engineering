@@ -20,6 +20,11 @@ dependencies:
   - sentencepiece
   - pyarrow
   - faiss-cpu
+  - nvidia-cuda-toolkit
+  - build-essential
+  - espeak
+  - ffmpeg
+  - libespeak1
   - pip:
     - beautifulsoup4
     - plotly
